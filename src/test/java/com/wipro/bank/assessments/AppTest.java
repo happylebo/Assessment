@@ -1,4 +1,4 @@
-package com.wipro.bank.assessment;
+package com.wipro.bank.assessments;
 
 import static org.junit.Assert.*;
 
@@ -9,7 +9,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.wipro.bank.assessment.App;
+import com.wipro.bank.assessments.App;
 import com.wipro.bank.entity.Account;
 
 
